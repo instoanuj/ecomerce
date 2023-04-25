@@ -1,0 +1,10 @@
+.div{
+    justify-content: center;
+    display: flex;
+    box-sizing:content-box;
+    background-color: rgb(41, 35, 47);
+
+}
+card{
+    padding: 2rem;
+}
